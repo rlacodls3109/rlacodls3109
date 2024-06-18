@@ -38,14 +38,16 @@
     <a href="https://github.com/Gwelcome">Gwelcome Github</a><p> 2023.10~2023.12 TAbA 4기 프로젝트 - 경기도 청년 맞춤형 정책 추천 및 상담서비스 <b>Gwelcome</b> </p>
     <a href="https://github.com/https://github.com/Hiking-Planner">Hiking Planner Github</a><p> 2024.03~2024.06 캡스톤디자인 - 안전한 등산을 위한 서비스 <b>Hiking Planner</b> </p>
     </div> <br> 
-    <div align= "center"> 
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📓 Study (mini project) </h3> 
+    <div align= "center">
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📓 Study </h3> 
+      </div>      
+    <div align= "left">      
     <p> 웹스터디 ToDoList 사이트 만들기 - Django 학습 </p>
     <p> Gwelcome에서 ChatGPT API를 활용한 챗봇 모듈 개발 - 프롬프트 엔지니어링, Fast API와 Docker, AWS를 통한 서버배포 </p>
     <p> Gwelcome에서 문장 유사도 검사 모듈 개발 -  Sentence Transformer 모델 사용, Fast API와 Docker, AWS를 통한 서버배포</p>
     <p> 스크린 골프장 업무 자동화 프로그램 제작 - Selinium 사용 </p>
-    <p> Hiking Planner에서 백엔드 개발 - SpringBoot 사용, 국가지점번호 변환 알고리즘 작성</p>
-    <p> Hiking Planner에서 경로탐색 파이썬 서버 개발 - 그래프이론을 활용한 최다빈도경로반환 알고리즘 작성, Fast API, 도커, AWS를 통한 서버 배포 </p>
+    <p> Hiking Planner에서 백엔드 개발 - SpringBoot 사용, 국가지점번호 변환 알고리즘 작성, Git 을 통한 협업</p>
+    <p> Hiking Planner에서 경로탐색 파이썬 서버 개발 - 그래프이론을 활용한 최다빈도경로반환 알고리즘 작성, Fast API, 도커, AWS 통한 서버배포 </p>
     </div> <br> 
     
 
