@@ -1,6 +1,6 @@
 
 <div align= "center">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0017d1&width=500%&height=300&section=header&text=HELLO!&fontAlignY=38&fontSize=90&desc=I'm%20ChaeIn🌱&descAlignY=54&descAlign=62&descSize=27&fontColor=ffffff" />
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0017d1&width=500%&height=300&section=header&text=HELLO!&fontAlignY=38&fontSize=90&desc=I'm%20Chaein🌱&descAlignY=54&descAlign=62&descSize=27&fontColor=ffffff" />
   </div>
 <div align= "center">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😆About Me </h3> 
