@@ -41,14 +41,17 @@
     <div align= "center">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📓 Study </h3> 
       </div>      
-    <div align= "left">      
-    <p> 웹스터디 ToDoList 사이트 만들기 - Django 학습 </p>
-    <p> Gwelcome에서 ChatGPT API를 활용한 챗봇 모듈 개발 - 프롬프트 엔지니어링, Fast API와 Docker, AWS를 통한 서버배포 </p>
-    <p> Gwelcome에서 문장 유사도 검사 모듈 개발 -  Sentence Transformer 모델 사용, Fast API와 Docker, AWS를 통한 서버배포</p>
-    <p> 스크린 골프장 업무 자동화 프로그램 제작 - Selinium 사용 </p>
-    <p> Hiking Planner에서 백엔드 개발 - SpringBoot 사용, 국가지점번호 변환 알고리즘 작성, Git 을 통한 협업</p>
-    <p> Hiking Planner에서 경로탐색 파이썬 서버 개발 - 그래프이론을 활용한 최다빈도경로반환 알고리즘 작성, Fast API, 도커, AWS 통한 서버배포 </p>
-    </div> <br> 
+
+
+|What|How|
+|------|---|
+|웹스터디 ToDoList 사이트 만들기|Django 학습|
+|Gwelcome에서 ChatGPT API를 활용한 챗봇 모듈 개발|프롬프트 엔지니어링, Fast API와 Docker, AWS를 통한 서버배포|
+|Gwelcome에서 문장 유사도 검사 모듈 개발| Sentence Transformer 모델 사용, Fast API와 Docker, AWS를 통한 서버배포|
+|스크린 골프장 업무 자동화 프로그램 제작|Selinium 사용|
+|Hiking Planner에서 백엔드 개발|SpringBoot 사용, 국가지점번호 변환 알고리즘 작성, Git 을 통한 협업|
+|Hiking Planner에서 경로탐색 파이썬 서버 개발|그래프이론을 활용한 최다빈도경로반환 알고리즘 작성, Fast API, 도커, AWS 통한 서버배포|
+
     
 
     
