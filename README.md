@@ -22,7 +22,7 @@
     <div align= "center">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 My Pages </h3>
     <div align= "center"> <a href=https://ins-life.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://ins-life.tistory.com/"> </a>
-   <a h  ref=https://velog.io/@rlacodls3109/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@rlacodls3109/posts/"> </a>
+   <a href=https://velog.io/@rlacodls3109/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@rlacodls3109/posts/"> </a>
    <a href=https://github.com/rlacodls3109/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&link="> </a>
     </div> 
     </div> <br> 
