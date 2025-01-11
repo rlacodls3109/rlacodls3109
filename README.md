@@ -39,7 +39,7 @@
       <div align= "center"> 
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Project </h3> 
     <a href="https://github.com/Gwelcome">Gwelcome Github</a><p> 2023.10~2023.12 TAbA 4기 프로젝트 - 경기도 청년 맞춤형 정책 추천 및 상담서비스 <b>Gwelcome</b> </p>
-    <a href="https://github.com/Hiking-Planner">Hiking Planner Github</a><p> 2024.03~2024.06 캡스톤디자인 - 안전한 등산을 위한 서비스 <b>Hiking Planner</b> </p>
+    <a href="https://github.com/Hiking-Planner">Hiking Planner Github</a><p> 2024.03~2024.12 (2024 졸업작품 전시회 대상)캡스톤디자인 - 안전한 등산을 위한 서비스 <b>Hiking Planner</b> </p>
     </div> <br> 
     <div align= "center">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📓 Study </h3> 
