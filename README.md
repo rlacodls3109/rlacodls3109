@@ -5,9 +5,11 @@
 <div align= "center">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😆About Me </h3> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
-      <p>2019.3~ 단국대학교 소프트웨어학과</p>
-      <p>2023.9~2023.12 티맥스 아카데미 TABA 4기 우수교육생</p>     
-          </div> <br> 
+      <p>2019.3 ~ 단국대학교 소프트웨어학과</p>
+      <p>2023.9 ~2023.12 티맥스 아카데미 TABA 4기 우수교육생</p>
+      <p>2024.9 ~2025.2 PWC 설비 정비 프로젝트 RA</p>
+      <p>2025.6 ~ PWC Digital Plant Center 근무 </p>
+    </div> <br> 
 <div align= "center">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Teck Stacks </h3> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -33,13 +35,12 @@
         <p><b>2023.07. PCCE Lv.3 </b></p>
         <p><b>2024.09 SQLD Lv.3 </b></p>
     <div align= "center"> <img src="http://mazassumnida.wtf/api/generate_badge?boj=rlacodls3109"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlacodls3109&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
+         />  </div> 
     </div><br>
       <div align= "center"> 
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Project </h3> 
     <a href="https://github.com/Gwelcome">Gwelcome Github</a><p> 2023.10~2023.12 TAbA 4기 프로젝트 - 경기도 청년 맞춤형 정책 추천 및 상담서비스 <b>Gwelcome</b> </p>
-    <a href="https://github.com/Hiking-Planner">Hiking Planner Github</a><p> 2024.03~2024.12 (2024 졸업작품 전시회 대상)캡스톤디자인 - 안전한 등산을 위한 서비스 <b>Hiking Planner</b> </p>
+    <a href="https://github.com/Hiking-Planner">Hiking Planner Github</a><p> 2024.03~2024.12 (2024 졸업작품 전시회 대상) 캡스톤디자인 - 안전한 등산을 위한 서비스 <b>Hiking Planner</b> </p>
     </div> <br> 
     <div align= "center">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📓 Study </h3> 
