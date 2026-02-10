@@ -7,8 +7,8 @@
     <div style="margin: 0 auto; text-align: center;" align= "center">
       <p>2019.3 ~ 단국대학교 소프트웨어학과</p>
       <p>2023.9 ~2023.12 티맥스 아카데미 TABA 4기 우수교육생</p>
-      <p>2024.9 ~2025.2 PWC 설비 정비 프로젝트 RA</p>
-      <p>2025.6 ~ PWC Digital Plant Center 근무 </p>
+      <p>2024.9 ~2025.2 PwC 설비 정비 프로젝트 RA</p>
+      <p>2025.6 ~ PwC Digital Plant Center 근무 </p>
     </div> <br> 
 <div align= "center">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Teck Stacks </h3> 
