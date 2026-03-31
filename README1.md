@@ -5,7 +5,7 @@
 <div align= "center">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😆About Me </h3> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
-      <p>2019.3 ~ 2025.02 소프트웨어학과</p>
+      <p>2019.3 ~ 2025.02 단국대학교 소프트웨어학과</p>
       <p>2023.9 ~2023.12 [티맥스 아카데미 TABA] 4기 우수교육생</p>
       <p>2024.9 ~2025.2 [PwC] 정유사 설비관리 통합플랫폼 구축 프로젝트 RA</p>
       <p>2025.6 ~ PwC Managed Services Digital Plant Center 근무 </p>
@@ -19,26 +19,22 @@
           <br/><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
           <img src="https://img.shields.io/badge/langchain-7FC8FF?style=for-the-badge&logo=langchain&logoColor=white">
-          <img src="https://img.shields.io/badge/langgraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white">
-
-          </div> 
+          <img src="https://img.shields.io/badge/langgraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"> 
     </div> <br> 
     <div align= "center">
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 My Pages </h3>
+          <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 My Pages </h3>
     <div align= "center"> 
           <p> 개발 블로그 바로가기 👇 </p>
           <a href=https://ins-life.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://ins-life.tistory.com/"> </a>
-   <a href=https://velog.io/@rlacodls3109/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@rlacodls3109/posts/"> </a>
-   <a href=https://github.com/rlacodls3109/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&link="> </a>
-    </div> 
+          <a href=https://velog.io/@rlacodls3109/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@rlacodls3109/posts/"> </a>
+          <a href=https://github.com/rlacodls3109/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&link="> </a>
     </div> <br> 
   <div align= "center"> 
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h3> 
         <p><b>2023.07. PCCE Lv.3 </b></p>
         <p><b>2024.09 SQLD </b></p>
-    <div align= "center"> <img src="http://mazassumnida.wtf/api/generate_badge?boj=rlacodls3109"
-         />  </div> 
-    </div><br>
+    <div align= "center"> <img src="http://mazassumnida.wtf/api/generate_badge?boj=rlacodls3109">  </div> 
+  </div><br>
       <div align= "center"> 
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Project </h3> 
     <a href="https://github.com/Gwelcome">Gwelcome Github</a><p> 2023.10~2023.12 TAbA 4기 프로젝트 - 경기도 청년 맞춤형 정책 추천 및 상담서비스 <b>Gwelcome</b> </p>
