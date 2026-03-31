@@ -33,7 +33,7 @@
   <div align= "center"> 
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h3> 
         <p><b>2023.07. PCCE Lv.3 </b></p>
-        <p><b>2024.09 SQLD Lv.3 </b></p>
+        <p><b>2024.09 SQLD </b></p>
     <div align= "center"> <img src="http://mazassumnida.wtf/api/generate_badge?boj=rlacodls3109"
          />  </div> 
     </div><br>
