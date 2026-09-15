@@ -7,7 +7,7 @@
     <div style="margin: 0 auto; text-align: center;" align= "center">
       <p>2019.03 ~ 2025.02 단국대학교 소프트웨어학과</p>
       <p>2023.09 ~ 2023.12 [티맥스 아카데미 TABA] 4기 우수교육생</p>
-      <p>2024.09 ~ 2025.02 [PwC] 정유사 설비관리 통합플랫폼 구축 프로젝트 RA</p>
+      <p>2024.09 ~ 2025.02 [PwC] 정유사 설비관리 통합플랫폼 구축 프로젝트 Research Associate</p>
       <p>2025.06 ~ 2026.09 프라이스워터하우스쿠퍼스컨설팅 Associate </p>
     </div> <br> 
 <div align= "center">
