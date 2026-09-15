@@ -1,6 +1,6 @@
 
 <div align= "center">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0017d1&width=500%&height=300&section=header&text=Chaein's%20Github&fontAlignY=38&fontSize=90&descAlignY=54&descAlign=62&descSize=27&fontColor=bc8f8f" />
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=bc8f8f&width=500%&height=300&section=header&text=Chaein's%20Github&fontAlignY=38&fontSize=90&descAlignY=54&descAlign=62&descSize=27&fontColor=fffff" />
   </div>
 <div align= "center">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😆About Me </h3> 
